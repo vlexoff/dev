@@ -1,0 +1,4 @@
+npm create vite@latest pawnshop
+cd pawnshop
+npm install
+npm run dev
